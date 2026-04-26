@@ -8,4 +8,4 @@ int main()
         std::cout << "Сумма: " << x + y << std::endl;
 
         return 0;
-    }
+    } 
