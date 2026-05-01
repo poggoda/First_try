@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Инструкция для робота "Как дойти до кабинета"
 int main ()
     {
         cout << "Подойди к информативному посту.\n";

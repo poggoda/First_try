@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Описание как приготовить Булочки с черникой
 int main ()
     {
         cout << "\tБулочки с черникой\n";

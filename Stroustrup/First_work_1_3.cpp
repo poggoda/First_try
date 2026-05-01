@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Как добраться из места жительства до работы
 int main ()
     {
         cout << "Выйти с территории дома через ворота\n";

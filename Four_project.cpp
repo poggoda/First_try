@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-
+// Игра с переменными
 int main()
     {
         int x = 6;

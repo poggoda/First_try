@@ -1,4 +1,5 @@
 #include <iostream>
+// Первая программа
 int main()
     {
         std::cout << "Hello, World!" << std::endl;
